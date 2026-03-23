@@ -12,7 +12,6 @@
 ## 🚀 What I’m Building
 - **Agentic micro‑tools** for personal use, EAM, and enterprise workflows  
 - **Local / Cloud LLM lab** custom CLI for local based models, training on g5.xlarge EC2
-- 
 ---
 
 ## 🧠 Engineering Philosophy

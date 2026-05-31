@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h3 align="center">Technical Consultant • AI focused Software Engineer • Builder of Modular, Auditable Tools</h3>
+<h3 align="center">AI Software Engineer • Builder of Modular, Auditable Tools</h3>
 
 <p align="center">
   <a href="https://github.com/pmcder?tab=repositories">Projects</a> •
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 What I’m Building
-- **Agentic micro‑tools** for personal use, EAM, and enterprise workflows  
+- **Agentic micro‑tools** for personal use and enterprise workflows  
 - **Local / Cloud LLM lab** custom CLI for local based models, training on g5.xlarge EC2
 ---
 

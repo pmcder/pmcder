@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/pmcder?tab=repositories">Projects</a> •
-  <a href="https://www.linkedin.com/in/pmcderm">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/pmcderm">LinkedIn</a>
 </p>
 
 ---

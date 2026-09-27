@@ -10,14 +10,8 @@
 ---
 
 ## 🚀 What I’m Building
-- **Agentic micro‑tools** for personal use and enterprise workflows  
-- **Local / Cloud LLM lab** custom CLI for local based models, training on g5.xlarge EC2
----
-
-## 🧠 Engineering Philosophy
-I build tools that are:
-- **Modular** — every component is replaceable  
-- **Auditable** — every step leaves a trace  
-- **Agent‑friendly** — designed for orchestration and extension  
-- **Regulator‑ready** — predictable, explainable, and testable  
+- **Internal Developer Platforms** that simplify application delivery
+- **Cloud-native infrastructure** on GCP using Infrastructure as Code
+- **Developer tooling and automation** to improve reliability and deployment velocity
+- **AI platform services** that enable secure and observable agentic workloads
 ---

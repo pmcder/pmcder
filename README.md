@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h3 align="center">AI Software Engineer • Builder of Modular, Auditable Tools</h3>
+<h3 align="center">AI Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/pmcder?tab=repositories">Projects</a> •
@@ -14,4 +14,5 @@
 - **Cloud-native infrastructure** on GCP using Infrastructure as Code
 - **Developer tooling and automation** to improve reliability and deployment velocity
 - **AI platform services** that enable secure and observable agentic workloads
+- **Secure GitHub Actions pipelines** policy enforcement, and automated security controls
 ---

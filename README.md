@@ -9,10 +9,12 @@
 
 ---
 
+Platform Engineer with a Master of Science in Software Development from Boston University's Metropolitan College (2021). Passionate about building secure, scalable cloud platforms, automating developer workflows, and enabling teams through self-service infrastructure.
+
 ## 🚀 What I’m Building
 - **Internal Developer Platforms** that simplify application delivery
 - **Cloud-native infrastructure** on GCP using Infrastructure as Code
 - **Developer tooling and automation** to improve reliability and deployment velocity
 - **AI platform services** that enable secure and observable agentic workloads
-- **Secure GitHub Actions pipelines** policy enforcement, and automated security controls
+- **Developer platform automation** with GitHub Actions, Workload Identity Federation (WIF), DevSecOps guardrails, and secure cloud delivery pipelines
 ---
